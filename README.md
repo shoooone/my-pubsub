@@ -117,6 +117,10 @@ Pubsub.subscribe('input:message', args => {
 });
 ```
 
+こんな感じで動く
+
+![gif](./images/pubsub.gif)
+
 ## まとめ
 
 最低限の機能を持った PubSub を実装してみました。  
